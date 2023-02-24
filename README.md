@@ -1,8 +1,9 @@
-<h1>👋 Hi, I’m @MachareteL</h1>
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h1>Hi, I’m @MachareteL</h1>
+<ul>
+  <li>- 👀 I’m interested in NextJs, JavaScript and WebDev in general</li>
+  <li>- 🌱 I’m currently learning JavaScript, Python, Java and some Frameworks related to it</li>
+  <li>- 😎 I Like to learn new things and develop new knowledge</li>
+</ul>
 
 
 <div align="center">
